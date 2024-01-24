@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Automate a Test scenario in Manual Mode using Local Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>036213e2-9184-4242-aede-87d538def72f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f716f20-2447-4870-917a-275448c456d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>019088de-d334-4fec-8af6-7b728abf1863</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c88781a-047d-4dbd-a130-4a51e788f5c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Lily'</defaultValue>
+      <description></description>
+      <id>8f716f20-2447-4870-917a-275448c456d7</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Firdaus'</defaultValue>
+      <description></description>
+      <id>019088de-d334-4fec-8af6-7b728abf1863</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lily@gmail.com'</defaultValue>
+      <description></description>
+      <id>0c88781a-047d-4dbd-a130-4a51e788f5c3</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

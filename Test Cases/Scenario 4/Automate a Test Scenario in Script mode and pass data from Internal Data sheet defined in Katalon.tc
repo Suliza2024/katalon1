@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Automate a Test Scenario in Script mode and pass data from Internal Data sheet defined in Katalon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f883498a-2719-4307-85b1-decd11277df5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c82a6773-9815-4297-8542-675370eaa398</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70111adf-b728-4238-8f81-0c542fb69973</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22d23e7c-b4cb-4f00-a6b2-f909967f70fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Lily'</defaultValue>
+      <description></description>
+      <id>c82a6773-9815-4297-8542-675370eaa398</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Firdaus'</defaultValue>
+      <description></description>
+      <id>70111adf-b728-4238-8f81-0c542fb69973</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lily@gmail.com'</defaultValue>
+      <description></description>
+      <id>22d23e7c-b4cb-4f00-a6b2-f909967f70fa</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>
